@@ -5,4 +5,4 @@
 # 3) Game - game's code.
 # 4) Maze - Maze's algorithm.
 # 5) NoObjectMotion - Problem N-bodies.
-# 6) WayToLight - the latest version
+# 6) WayToLight - game's latest version
